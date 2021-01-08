@@ -13,7 +13,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 # TASKS
 
-## Task 1 - Predicting Using Supervised Machine Learning
+## Task 1 - Predicting Using Supervised ML
 
   In this task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
     This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data.
@@ -26,3 +26,13 @@ To see the implementation check this :
  [Github](https://github.com/bibekuchiha/GRIP-The-Sparks-Foundation/tree/main/Task%201.%20Predictions%20using%20Supervised%20ML)
  <br>
  [Youtube](https://www.youtube.com/watch?v=jx7nsISC9j0)
+ 
+ ## Task 2 : Prediction Using Unsupervised ML
+
+  In this task we will use the Iris [dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) and try to predict the optimum number of clusters and represent it visually.
+  
+  To see the implementation check this :
+  <br>
+  [Github](https://github.com/bibekuchiha/GRIP-The-Sparks-Foundation/blob/main/Task%202.%20Pediction%20using%20Unsupervised%20ML/Task%202%20%20Prediction%20Using%20Unsupervised%20ML.ipynb) 
+  <br> 
+  [youtube](https://www.youtube.com/watch?v=zImuUFgZmEA&feature=youtu.be)
