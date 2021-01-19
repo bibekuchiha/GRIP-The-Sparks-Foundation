@@ -36,3 +36,13 @@ To see the implementation check this :
   [Github](https://github.com/bibekuchiha/GRIP-The-Sparks-Foundation/blob/main/Task%202.%20Pediction%20using%20Unsupervised%20ML/Task%202%20%20Prediction%20Using%20Unsupervised%20ML.ipynb) 
   <br> 
   [youtube](https://www.youtube.com/watch?v=zImuUFgZmEA&feature=youtu.be)
+  
+## Prediction using Decision Tree Algorithm
+In this task, we will use the iris dataset and create a Decision Tree Classifier to classify the different iris flower species using the Sepal length, Sepal width, Petal length and Petal width as a feature.
+
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+To see the implementation check this :
+  <br>
+  [Github](https://github.com/bibekuchiha/GRIP-The-Sparks-Foundation/blob/main/Task%203%20%20Prediction%20using%20Decision%20Tree%20Algorithm/Decision%20Tree%20Classifier.ipynb)
+  <br>
+  [Youtube](https://youtu.be/_8tOriI7Zz4)
